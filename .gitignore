@@ -1,0 +1,18 @@
+# Daily AI Fact Refresh Worker v0.1 -- private, machine-local runtime
+# state and per-run audit trail. See tools/daily_fact_worker/ for the
+# worker's code (that IS meant to be committed) and
+# docs/DAILY_AI_FACT_WORKER_V0_1.md for what lives here and why.
+#
+# Nothing under var/ is part of the public Fact record: run_state.json
+# is this worker's private resume cursor, and runs/*.json is a private
+# audit copy of each run's structured Worker Result (candidate Facts the
+# External Fact Worker considered, including any that were rejected).
+# The public system of record stays exactly daily/ and index/, both
+# intentionally NOT listed here.
+/var/
+
+# Common local Python artifacts, in case a future contributor runs the
+# worker's tests from a virtualenv inside this repository.
+__pycache__/
+*.pyc
+.pytest_cache/

@@ -6,3 +6,7 @@
 {"event_id":"nvidia-20260825-001","date":"2026-08-26","organization":"NVIDIA Corporation","source_url":"https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo","verification":"VERIFIED_PRIMARY"}
 {"event_id":"panasonic-connect-20260825-001","date":"2026-08-26","organization":"Panasonic Connect株式会社","source_url":"https://news.panasonic.com/jp/press/jn260825-1","verification":"VERIFIED_PRIMARY"}
 {"event_id":"fujitsu-20260825-001","date":"2026-08-26","organization":"富士通株式会社","source_url":"https://global.fujitsu/ja-JP/pr/news/2026/08/25-01","verification":"VERIFIED_PRIMARY"}
+{"event_id": "anthropic-20260827-001", "date": "2026-08-28", "organization": "Anthropic", "source_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview", "verification": "VERIFIED_PRIMARY"}
+{"event_id": "anthropic-20260827-002", "date": "2026-08-28", "organization": "Anthropic", "source_url": "https://www.anthropic.com/news/expanding-support-for-scientists", "verification": "VERIFIED_PRIMARY"}
+{"event_id": "alibaba-qwen-20260826-001", "date": "2026-08-28", "organization": "Alibaba Qwen Team", "source_url": "https://github.com/QwenLM/Qwen3.8-Flash-Next", "verification": "VERIFIED_PRIMARY"}
+{"event_id": "bbix-20260827-001", "date": "2026-08-28", "organization": "BBIX株式会社", "source_url": "https://www.bbix.net/information/press/2026-08-27/", "verification": "VERIFIED_PRIMARY"}
